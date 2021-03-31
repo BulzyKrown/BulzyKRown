@@ -8,7 +8,7 @@
 <img href="https://www.google.com" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=bulzykrown&show_icons=true&include_all_commits=true&theme=react&count_private=true&hide_title=true&hide=issues" >
 </p>
 
-<h2>Skills</h2>
+<h2 align="center" >Skills</h2>
 <p align="center">
 <img height="40px" src="https://raw.githubusercontent.com/BulzyKrown/BulzyKrown/main/skills/CCNA.png">
 <img height="40px" src="https://raw.githubusercontent.com/BulzyKrown/BulzyKrown/main/skills/HTML5.png">
