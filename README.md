@@ -24,7 +24,7 @@
 - ⭐ Early Supporter in Discord
 - 📢 English / Spanish / Portuguese
 
-## Proyects
+## Projects
 
 | <a href="https://rule34-2021.herokuapp.com" target="_blank">**Rule 34 API**</a> | <a href="https://karu.bulzyland.xyz" target="_blank">**Karu**</a> |
 |:---: | :---: |
