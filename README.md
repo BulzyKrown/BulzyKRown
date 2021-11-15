@@ -5,7 +5,7 @@
 
 
 <p align="center"> 
-<img href="https://www.google.com" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=bulzykrown&show_icons=true&include_all_commits=true&theme=react&count_private=true&hide_title=true&hide=issues" >
+<img href="https://www.google.com" src="https://github-readme-stats.vercel.app/api?username=bulzykrown&show_icons=true&include_all_commits=true&theme=react&count_private=true&hide_title=true&hide=issues" >
 </p>
 
 <h2 align="center" >Skills</h2>
